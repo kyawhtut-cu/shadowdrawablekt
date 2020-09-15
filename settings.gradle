@@ -1,0 +1,3 @@
+include ':shadowdrawablekt'
+include ':app'
+rootProject.name = "ShadowDrawableKt"

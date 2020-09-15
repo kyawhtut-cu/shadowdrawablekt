@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ShadowConstraint">
+        <attr name="backgroundColor" format="color" />
+        <attr name="shadowColor" format="color" />
+        <attr name="radius" format="dimension" />
+        <attr name="shadowRadius" format="dimension" />
+        <attr name="offsetX" format="dimension" />
+        <attr name="offsetY" format="dimension" />
+    </declare-styleable>
+
+</resources>
